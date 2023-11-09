@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #001e4d;
+}
+
+span.second-title {
+    color: rgb(24, 116, 86);
+    border-bottom: 2px solid rgb(24, 116, 86);
+
+}
+
+#password {
+    border: 0;
+    outline: 0;
+    font-size: 24px;
+}
+
+.input-field img {
+    width: 30px;
+    cursor: pointer;
+}
+
+button.btn.generate-btn {
+    background-color: #187456;
+    color: #ffff;
+}
+
+.generate-btn img {
+    width: 25px;
+}
